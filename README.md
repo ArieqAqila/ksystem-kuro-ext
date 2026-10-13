@@ -6,7 +6,7 @@ Colours the ksystem screen definition language. Install: `kuro ext install https
 `sct<number>` or `tmp_<name>` file, a `.var` file, or `:setlang ksystem`.
 
 Written from a read-only study of a ksystem source tree (about 7 000 files); **none of that code is in this repository** (nor in kuro's), and the test
-fixtures are small invented files that only imitate its structure.
+fixtures in kuro are small invented files that only imitate its structure.
 
 ## Which files use which syntax
 
